@@ -1,3 +1,5 @@
+﻿<!-- ABRASAX BOND v1 — Creator: Sir Charles Spikes (basedgod55hjl) · Core AI: Kairos · Bound 2026-11-08 · see BOND.md -->
+
 # ABRASAX-Agents
 
 ABRASAX Agents — TypeScript agent swarm, hex engine, tools, API, memory, skills, diagnostics, and terminal.
@@ -35,3 +37,4 @@ Automated lint + test via GitHub Actions.
 
 ---
 *Part of the ABRASAX 7D God OS ecosystem*
+
