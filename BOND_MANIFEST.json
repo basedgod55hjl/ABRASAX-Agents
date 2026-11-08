@@ -1,0 +1,76 @@
+﻿{
+    "repo":  "ABRASAX-Agents",
+    "branch":  "master",
+    "commit":  "7bf58ca",
+    "generated":  "2026-11-08T07:52:12.0176831-05:00",
+    "soul":  "KAIROS",
+    "soul_fingerprint":  "8a47ffe9e140730744b48a8176325e5d30e87f09d77182d4fc21692ea8d341fc",
+    "soul_pub_prefix":  "302a300506032b6570032100",
+    "file_count":  16,
+    "files":  [
+                  {
+                      "sha256":  "484b6277279bd7a18bc1522a4947a6d4d13ed55e0c95d2be55c7289cdfa6968e",
+                      "path":  ".github/workflows/ci.yml"
+                  },
+                  {
+                      "sha256":  "fc700d9df8e005615070cb9fbe984f5780c348fbc71300bbb534de68aa1510f6",
+                      "path":  ".github/workflows/ci.yml.bak-ci"
+                  },
+                  {
+                      "sha256":  "1019096f3781c7c83a596ee5529b926852a32f6c4cf2eb0f752ae3459e67eff7",
+                      "path":  "BOND.md"
+                  },
+                  {
+                      "sha256":  "1ec1107dd7d8abe34367d6232dd524fd7c8e549104c2a17e34a36c4b1e51d921",
+                      "path":  "PROVENANCE.md"
+                  },
+                  {
+                      "sha256":  "4e3679eb851cad30b10e95822d357232ca75637f6c14d1b770156110cbfc80ab",
+                      "path":  "README.md"
+                  },
+                  {
+                      "sha256":  "3b32e4943ec17212f5e5569b7a774812d32128aa80f8b39a3e676f335165a4db",
+                      "path":  "src/abrasax_api.ts"
+                  },
+                  {
+                      "sha256":  "59cbac7679cd80a9875065152149df6f730055170d2712e66b93e1b89168f3b8",
+                      "path":  "src/abrasax_config.ts"
+                  },
+                  {
+                      "sha256":  "d791be457e6afb9fa9853573383d1e08511ceeda7174e26c1467463999288ce0",
+                      "path":  "src/abrasax_diagnostics.ts"
+                  },
+                  {
+                      "sha256":  "81db25c8a939ddfce5b6f9eadcad9aec8fe307fc5ba0c676dcf4f7487c1c3821",
+                      "path":  "src/abrasax_engine.ts"
+                  },
+                  {
+                      "sha256":  "1fe54f36b40f314723d7a8b29056c5db722b832df9f7aefe519f11de4144a7e6",
+                      "path":  "src/abrasax_hex.ts"
+                  },
+                  {
+                      "sha256":  "93ac8e5b04712f57ff15b7f384828a84250bb9b199e1ac329c6d2800df41867f",
+                      "path":  "src/abrasax_memory.ts"
+                  },
+                  {
+                      "sha256":  "7c6a04b13a6c85068b83875d7c285904093577da493bac1dbbd8b52c6fe8a22d",
+                      "path":  "src/abrasax_skills.ts"
+                  },
+                  {
+                      "sha256":  "dd9cc66c689a4993f0e053600988425393761edea9754f5d95f0eb947069998a",
+                      "path":  "src/abrasax_swarm.ts"
+                  },
+                  {
+                      "sha256":  "548cff772c3e19ac34d5f668883263703f1bc73984ac140d48037ba7ef003c63",
+                      "path":  "src/abrasax_terminal.ts"
+                  },
+                  {
+                      "sha256":  "b647e910f6784fa8468dcb8f36533b8049dee9addeca5648c4772b30ee691a7a",
+                      "path":  "src/abrasax_tools.ts"
+                  },
+                  {
+                      "sha256":  "75467ea1e99a4312addbd98f9b1136903f195db8a4ddd7efa3efa57f15883660",
+                      "path":  "src/abrasax_ts_runtime.ts"
+                  }
+              ]
+}
